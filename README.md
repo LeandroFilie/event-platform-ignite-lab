@@ -9,6 +9,8 @@ O projeto foi desenvolvido durante o evento Ignite Lab, realizado pela Rocktseat
 - ReactJS
 - Tailwind CSS
 - GraphQL
+- Apollo
+- [graphcms](https://graphcms.com/)
 
 ## Instalação e Uso
 ### Requisitos
